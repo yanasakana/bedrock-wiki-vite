@@ -1,0 +1,1 @@
+import{o as t,c as d,d as r}from"./app.6f1fd51d.js";const e='{"title":"Item Categories","description":"","frontmatter":{"layout":"page","title":"Item Categories","parent":"Documentation"},"relativePath":"documentation/item-groups.md","lastUpdated":1622221463666}',m={},o=r('',3);m.render=function(r,e,m,a,n,i){return t(),d("div",null,[o])};export default m;export{e as __pageData};
